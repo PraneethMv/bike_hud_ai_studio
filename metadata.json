@@ -1,0 +1,6 @@
+{
+  "name": "AeroHUD 2-Wheeler Cluster",
+  "description": "Standalone, vehicle-agnostic 2-wheeler HUD unit compliant with Material 3 (M3) design system. Features GPS telemetry, Android Auto media playback, turn-by-turn navigation, digital document wallet, and wireless helmet intercom controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
